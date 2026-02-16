@@ -38,8 +38,8 @@ TC2004B-Lucero_1/
 
 #### 1. Clonar repositorio
 ```bash
-git clone https://github.com/TuUsuario/TC2004B-TuNombre.git
-cd TC2004B-TuNombre
+git clone https://github.com/Luzdks/TC2004B-Lucero_1.git
+cd TC2004B-Lucero_1
 ```
 
 #### 2. Crear ambiente virtual
